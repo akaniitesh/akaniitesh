@@ -154,7 +154,6 @@ LangGraph • LangChain • Gemini • Groq • Qdrant • FastAPI • Streamlit
 
 🥇 1st Place — AI/ML Competition, Xavier Fest, NIT Jamshedpur
 
-🥈 2nd Place — PG Parade, URJA'25
 
 ---
 
