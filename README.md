@@ -161,19 +161,7 @@ LangGraph • LangChain • Gemini • Groq • Qdrant • FastAPI • Streamlit
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=akaniitesh&show_icons=true&theme=tokyonight" height="170">
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=akaniitesh&theme=tokyonight" height="170">
-
-</p>
-
----
-
-# 💻 Most Used Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akaniitesh&layout=compact&theme=tokyonight">
 
 </p>
 
