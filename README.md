@@ -1,6 +1,5 @@
 # Hi there 👋, I'm Nitesh Kumar
 
-<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=akaniitesh&show_icons=true&theme=tokyonight" />
 
 ### 🚀 MCA Student | AI/ML Engineer | MLOps 
 
