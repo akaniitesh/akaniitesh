@@ -20,6 +20,15 @@ I enjoy building production-ready AI systems—from training machine learning mo
 * 💡 Interested in Software Engineering, AI Research and MLOps roles
 
 ---
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=akaniitesh&theme=tokyonight" height="170">
+
+</p>
+
+---
 
 # 🛠 Tech Stack
 
@@ -147,23 +156,6 @@ Enterprise-grade multi-agent Retrieval Augmented Generation system.
 **Tech Stack**
 
 LangGraph • LangChain • Gemini • Groq • Qdrant • FastAPI • Streamlit
-
----
-
-## 🏆 Achievements
-
-🥇 1st Place — AI/ML Competition, Xavier Fest, NIT Jamshedpur
-
-
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=akaniitesh&theme=tokyonight" height="170">
-
-</p>
 
 ---
 
