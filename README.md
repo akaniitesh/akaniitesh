@@ -9,6 +9,16 @@ I enjoy building production-ready AI systems—from training machine learning mo
 
 ---
 
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=akaniitesh&theme=tokyonight" height="170">
+
+</p>
+
+---
+
 ## 👨‍💻 About Me
 
 * 🎓 MCA @ NIT Jamshedpur
@@ -18,15 +28,6 @@ I enjoy building production-ready AI systems—from training machine learning mo
 * 🐳 Love Docker, Linux and Cloud Deployment
 * 🌱 Currently learning LLM Engineering and AI Agents
 * 💡 Interested in Software Engineering, AI Research and MLOps roles
-
----
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=akaniitesh&theme=tokyonight" height="170">
-
-</p>
 
 ---
 
